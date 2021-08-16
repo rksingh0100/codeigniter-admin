@@ -1,5 +1,6 @@
 # codeigniter-admin
 **This repository will help you in quickly starting your admin panel development through Codeigniter**
+
 To start got to php-admin->application->config
 Edit the database.php file to enter the database credentials.
 Upload the files on the server. And the installation is done.
